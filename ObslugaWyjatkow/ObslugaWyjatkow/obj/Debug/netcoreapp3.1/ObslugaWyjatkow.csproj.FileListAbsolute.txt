@@ -1,0 +1,13 @@
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\bin\Debug\netcoreapp3.1\ObslugaWyjatkow.exe
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\bin\Debug\netcoreapp3.1\ObslugaWyjatkow.deps.json
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\bin\Debug\netcoreapp3.1\ObslugaWyjatkow.runtimeconfig.json
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\bin\Debug\netcoreapp3.1\ObslugaWyjatkow.runtimeconfig.dev.json
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\bin\Debug\netcoreapp3.1\ObslugaWyjatkow.dll
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\bin\Debug\netcoreapp3.1\ObslugaWyjatkow.pdb
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\obj\Debug\netcoreapp3.1\ObslugaWyjatkow.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\obj\Debug\netcoreapp3.1\ObslugaWyjatkow.AssemblyInfoInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\obj\Debug\netcoreapp3.1\ObslugaWyjatkow.AssemblyInfo.cs
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\obj\Debug\netcoreapp3.1\ObslugaWyjatkow.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\obj\Debug\netcoreapp3.1\ObslugaWyjatkow.dll
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\obj\Debug\netcoreapp3.1\ObslugaWyjatkow.pdb
+B:\1_C#\JęzykC#_Platforma_Net\ObslugaWyjatkow\ObslugaWyjatkow\obj\Debug\netcoreapp3.1\ObslugaWyjatkow.genruntimeconfig.cache
