@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kolecje_I_typy_generyczne/1.0.0": {
+        "runtime": {
+          "Kolecje_I_typy_generyczne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kolecje_I_typy_generyczne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
