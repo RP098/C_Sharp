@@ -1,0 +1,13 @@
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\bin\Debug\netcoreapp3.1\WyrazeniaLambda.exe
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\bin\Debug\netcoreapp3.1\WyrazeniaLambda.deps.json
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\bin\Debug\netcoreapp3.1\WyrazeniaLambda.runtimeconfig.json
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\bin\Debug\netcoreapp3.1\WyrazeniaLambda.runtimeconfig.dev.json
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\bin\Debug\netcoreapp3.1\WyrazeniaLambda.dll
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\bin\Debug\netcoreapp3.1\WyrazeniaLambda.pdb
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\obj\Debug\netcoreapp3.1\WyrazeniaLambda.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\obj\Debug\netcoreapp3.1\WyrazeniaLambda.AssemblyInfoInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\obj\Debug\netcoreapp3.1\WyrazeniaLambda.AssemblyInfo.cs
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\obj\Debug\netcoreapp3.1\WyrazeniaLambda.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\obj\Debug\netcoreapp3.1\WyrazeniaLambda.dll
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\obj\Debug\netcoreapp3.1\WyrazeniaLambda.pdb
+B:\1_C#\JęzykC#_Platforma_Net\WyrazeniaLambda\WyrazeniaLambda\obj\Debug\netcoreapp3.1\WyrazeniaLambda.genruntimeconfig.cache
