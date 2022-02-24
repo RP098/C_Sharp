@@ -1,0 +1,13 @@
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\bin\Debug\netcoreapp3.1\LINQU.exe
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\bin\Debug\netcoreapp3.1\LINQU.deps.json
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\bin\Debug\netcoreapp3.1\LINQU.runtimeconfig.json
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\bin\Debug\netcoreapp3.1\LINQU.runtimeconfig.dev.json
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\bin\Debug\netcoreapp3.1\LINQU.dll
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\bin\Debug\netcoreapp3.1\LINQU.pdb
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\obj\Debug\netcoreapp3.1\LINQU.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\obj\Debug\netcoreapp3.1\LINQU.AssemblyInfoInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\obj\Debug\netcoreapp3.1\LINQU.AssemblyInfo.cs
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\obj\Debug\netcoreapp3.1\LINQU.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\obj\Debug\netcoreapp3.1\LINQU.dll
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\obj\Debug\netcoreapp3.1\LINQU.pdb
+B:\1_C#\JęzykC#_Platforma_Net\LINQU\LINQU\obj\Debug\netcoreapp3.1\LINQU.genruntimeconfig.cache
