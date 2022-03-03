@@ -1,0 +1,6 @@
+B:\1_C#\JęzykC#_Platforma_Net\TypyDynamiczneSrodowisko_DLR\MathLibrary\bin\Debug\MathLibrary.dll
+B:\1_C#\JęzykC#_Platforma_Net\TypyDynamiczneSrodowisko_DLR\MathLibrary\bin\Debug\MathLibrary.pdb
+B:\1_C#\JęzykC#_Platforma_Net\TypyDynamiczneSrodowisko_DLR\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net\TypyDynamiczneSrodowisko_DLR\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\TypyDynamiczneSrodowisko_DLR\MathLibrary\obj\Debug\MathLibrary.dll
+B:\1_C#\JęzykC#_Platforma_Net\TypyDynamiczneSrodowisko_DLR\MathLibrary\obj\Debug\MathLibrary.pdb
