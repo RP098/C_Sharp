@@ -1,0 +1,172 @@
+15
+690
+15
+ 
+1,0,0,1
+1,0,10,60
+1,0,0,20
+1,0,1,6
+1,0,0,10
+1,0,1,15
+1,0,0,20
+1,0,0,16
+1,0,0,17
+1,0,0,14
+1,0,0,15
+1,0,0,10
+1,0,100,8000
+1,0,0,6
+0,0,0,1
+0,
+1,4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!stop!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+////////////////////////////////koniec informacji dla komputera///////////////////////////////////////////////
+australian.data  	- nazwa pliku
+15 		- liczba kolumn
+690	- liczba wystapień
+15	- numer kolumny wartosci decyzyjnej
+ 	- separator w nanym pliku tutaj spacja
+	pierwsza wartość zero albo jeden oznacza czy normalizować czy nie
+	wszystkie mają jedynki oprócz wartości decyzyjnej 
+A1	1,0,0,1 	0 oznacza typ numeryczny dalej zakres 0,1
+A2	1,0,10,60 	oznacza typ numeryczny dalej oznacza zakres 0 do 1
+A3	1,0,0,20	typ numeryczny zakres od 0 do 20    
+A4	1,0,1,6	
+A5	1,0,0,10
+A6	1,0,1,15
+A7	1,0,0,20
+A8	1,0,0,16
+A9	1,0,0,17
+A10	1,0,0,14
+A11	1,0,0,15
+A12	1,0,0,10
+A13	1,0,100,8000
+A14	1,0,0,6
+A15	0,0,0,1
+	0,	czy usunąć kolumny 0 oznacza nie 1 oznacza tak a dalej nalezy podac indeksy 
+	1,4 	zakres normalizacji
+
+
+
+
+
+
+Wzór normalizacji liczb.
+zakres 10-100;
+zakres normalizacji 1-5;
+odleglosc 100-10=90;
+liczba np 15
+jak daloko jestem 15-10=5
+zakres max - min
+
+5-90
+x-4
+5*4/90=0.222 do tego wyniku dodajemy min zakres
+otrzymana wartość to 1.22	
+
+
+
+
+
+
+
+Dlaczego dałem taki zakres, a nie zakres bardzo dokładny taki jest w tym zbiorze dlatego że mogłem przetestować
+swój program dość skutecznie czy działa w odpowiedni sposób i zakres bardzo niedokładny pozwolił sprawdzić 
+czy walidator działa poprawnie. Zakres kolumn powinien być możliwie dowolny ponieważ to nie zbiór liczb ustala 
+zakres a człowiek który chce to sprawdzać dlatego w moim rozwiązaniu sam nadawałem zakres który uznawałem 
+za słuszny i każdy inny człowiek może uważać 10000 za swój błąd, a 9999 już nie bo np w danym dniu nie było osób 
+zarabiających 10000 a ktoś pomylił się i dopisał jedno zero do 1000 co jest błędem.
+
+UWAGA w przypadku jedynki dane są kwalifikowane jako string a dalej należy podać wartości oczekiwane 
+
+Podczas normalizacji tworzony jest plik z poprzedzonym napisem bląd 
+Rodzaje błędów
+
+
+1)Błąd krytyczny niepoprawna liczba kolumn (numer kolumny)  -oznacza to przerwanie działań walidatora
+
+	
+2)rodzaje błędów w typie string
+ 	a) nie znana wartość lub brak wartości numer wiersza 290 numer kolumny 14
+3)rodzaje błędów numerycznych
+	a) 1:liczba spoza zakresu numer wiersza 444 numer kolumny 4
+	b) 2:wartość nieznana numer wiersza 333 numer kolumny 3
+
+?????????????????????Wzór do nadawania kolumnom ważności od 0 do 1?????????????????????
+
+W tym zbiorze danych mamy 15 kolumn gdzie każda z nich przechowuje pewną wartość. 
+W zbiorze dot kredytów możemy wyróźnić następujące zmienne które mogą być odwzorowane na takie wartości:
+wartość 0-1 może to być płeć, miejsce zamieszkania, stan cywilny itp oczywiście należy je uwzględnić ponieważ
+mają znaczenie jeśli chodzi o zdolość kredytową załóżmy że ze statystyk wynika że np kobiety zarabiają mniej niż mężczyźni
+to znaczy że mężczyzna ma większą szanse dostania kredytu niż kobieta bo wynika że mają lepszą zdolność kredytową.
+Miejsce zamieszkania wieś-miasta tutaj ta cecha rzutuje na inna ile np ktoś wydaje na utrzymanie np jeśli w dużych miastach 
+ceny są czynszu i utrzymania są wieksze niż na wsi to osoba zarabiająca 2000 na wsi a 2500 w mieście może mieć taką samą
+bądź lepszą zdolność kredytową.
+Jak stan cywilny wpływa na zdolność jest to ważne ponieważ dwóm osobom łatwiej spłacić kredyt niż jednej.
+Liczebność podzbioru od 0 do 70 liczb tu prawdopodobnie jest wiek który im wyższy to nie znaczy że zdolność opłacenia kredytu 
+jest większa tu chodzi o możliwość naturalnej śmierci większe jest prawdopodobieństwo że zdrowy człowiek umrze w wieku 70 lat
+niż w wieku 40 lat oczywiście naturalnie co ma wpływ na to czy ktoś spłaci ten kredyt albo na jak długo może go dostać
+np facet w wieku 30 lat może dostać kredyt na 15 lat i nie jest to nic złego lecz jeśli ktoś ma 70 lat i chce kredy na 15
+to tak trochę niezbyt rostropnie ponieważ może oczywiście niech żyje jak najdłużej ale może nie dożyć tych 85 lat 
+Mamy jeszcze zmienne typu forma zatrudnienia, historia kredytowa wykształcenie tutaj kwiesta bardzo ważna 
+uważam że doktor na studiach zarabiający 5000 czy urzędnik zarabiający 5000 ma większą zdoloność kredytową niż 
+pani księgowa zarabiająca 7000 złotych ponieważ ważna jest kwestia równierz jak stabilność zatrudnienia pani ksiągowa 
+dzisiaj pracuje jutro już nie bo szef stwierdził że źle prowadziła jego firmę a doktor na studiach  jest potrzebny ma więdzę
+więc raczej mało prawdopodobne jest że ktoś go zwolni oczywiście mogę się mylić to jest moje osobiste zdanie ale nie słyszałem
+o tym aby zdnia na dzień kogoś w szkole zwolniono nawet pani dyrektor mojego technikum która nie nadawałą się do zarządzania szkołą
+i osobiścię z nią walczyłem bo szkodziła innym to mimo zwolnienia z jednej posady dostała drugą taką samą ale takie jest życie. 
+Mamy kwestia bardzo ważną taką jak wysokość kredytu przychody wysokość rat które musiałem uwzględnić nie da się tego zrobić
+dobrze ponieważ ilość zmiennych jest znacząca. Skupiłem się na 4 przedziałach które wyodrebniłem z rozpisania wartości 
+w poszczególnych zmiennych.
+x jest liczbą naturalną ponieważ skupiam się na liczebności danej kolumny bo  wiadomo nie można mieć czegoś 0.5 długopisów
+tylko 1
+
+
+l liczebność podzbioru danej kolumny
+lK liczba wszystkich kolumn
+
+	Wzór =  l/lK
+
+Biorąc pod uwage poniższe wartości z których wynika że ilosc ma najwieksze znaczenie im wiecej zmiennych to
+kolumna ma wiekszą wagę opracowałem taki wzór prosty wzór  l/lK
+1 dla x należy 1 <= x < 3 		
+2 dla x należy 15 <=x < 80 						
+3 dla x należy 80 <=x 	
+4 dla x należy 3 <=x < 15 		
+Jakie dane
+1 wartości dla kolumn typu płeć stan cywilny itp.
+2 wiek
+3 wszystkie kwiestie związane z płatnościami i pieniędźmi
+4 dane typu zatrudnienie, wykształcenie, liczba spłaconych kredytów itd
+
+
+1 2/15/		= 0.13
+2 15/15/		= 1
+3 10000/15	= 666.7
+4 3/15/		= 0.2
+5 0-1|+- wartośc decyzyjna
+Posortować 0.13 0.2 1 666.7
+1/(lK)=0.25 - czyli skok o 0.25 
+0.13 	0.2 	1 	666.7 	wartośc decyzyjna	| kolumny
+0      	0.25	0.5	0.75   	1		| ważność kolumn
+				
+
+A1	0,1
+A2	10,60 	
+A3	0,20	
+A4	1,6	
+A5	0,10
+A6	1,15
+A7	0,20
+A8	0,16
+A9	0,17
+A10	0,14
+A11	0,15
+A12	1,0,0,10
+A13	1,0,100,8000
+A14	1,0,0,6
+A15	0,0,0,1
+
+
+
+

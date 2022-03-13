@@ -1,0 +1,9 @@
+C:\Users\L412\source\repos\Adam_Górski_AISD\bin\Debug\Adam_Górski_AISD.exe.config
+C:\Users\L412\source\repos\Adam_Górski_AISD\bin\Debug\Adam_Górski_AISD.exe
+C:\Users\L412\source\repos\Adam_Górski_AISD\bin\Debug\Adam_Górski_AISD.pdb
+C:\Users\L412\source\repos\Adam_Górski_AISD\obj\Debug\Adam_Górski_AISD.csprojAssemblyReference.cache
+C:\Users\L412\source\repos\Adam_Górski_AISD\obj\Debug\Adam_Górski_AISD.Form1.resources
+C:\Users\L412\source\repos\Adam_Górski_AISD\obj\Debug\Adam_Górski_AISD.Properties.Resources.resources
+C:\Users\L412\source\repos\Adam_Górski_AISD\obj\Debug\Adam_Górski_AISD.csproj.GenerateResource.cache
+C:\Users\L412\source\repos\Adam_Górski_AISD\obj\Debug\Adam_Górski_AISD.exe
+C:\Users\L412\source\repos\Adam_Górski_AISD\obj\Debug\Adam_Górski_AISD.pdb

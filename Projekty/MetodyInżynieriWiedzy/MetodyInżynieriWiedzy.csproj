@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CDB1C43-FE9B-4471-ABA6-3C1E2EEBC897}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MetodyInżynieriWiedzy</RootNamespace>
+    <AssemblyName>MetodyInżynieriWiedzy</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Decyzja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Decyzja.Designer.cs">
+      <DependentUpon>Decyzja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generuj.cs" />
+    <Compile Include="KNN.cs" />
+    <Compile Include="KnnDlaBazyProbek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KnnDlaBazyProbek.Designer.cs">
+      <DependentUpon>KnnDlaBazyProbek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KNNDlaPojObiektu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KNNDlaPojObiektu.Designer.cs">
+      <DependentUpon>KNNDlaPojObiektu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KnnKnajmniejszychWynikow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KnnKnajmniejszychWynikow.Designer.cs">
+      <DependentUpon>KnnKnajmniejszychWynikow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KnnSumaKnajmniejszychWartosci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KnnSumaKnajmniejszychWartosci.Designer.cs">
+      <DependentUpon>KnnSumaKnajmniejszychWartosci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="norm2.cs" />
+    <Compile Include="NormalizujprzedKonfiguracja.cs" />
+    <Compile Include="OdczytajStrukture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdczytajStrukture.Designer.cs">
+      <DependentUpon>OdczytajStrukture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SprawdzKnnNajmniejszychwwynikow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SprawdzKnnNajmniejszychwwynikow.Designer.cs">
+      <DependentUpon>SprawdzKnnNajmniejszychwwynikow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SprawdzKnnSumNajmniejszych.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SprawdzKnnSumNajmniejszych.Designer.cs">
+      <DependentUpon>SprawdzKnnSumNajmniejszych.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsunKolumne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsunKolumne.Designer.cs">
+      <DependentUpon>UsunKolumne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsuwanieWybranejKolumny.cs" />
+    <Compile Include="Walidator.cs" />
+    <Compile Include="WalidatorPliku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WalidatorPliku.Designer.cs">
+      <DependentUpon>WalidatorPliku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WczytajPlik.cs" />
+    <Compile Include="WyswietlLosowaStrukture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WyswietlLosowaStrukture.Designer.cs">
+      <DependentUpon>WyswietlLosowaStrukture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zad1Operacjanadanych.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zad1Operacjanadanych.Designer.cs">
+      <DependentUpon>Zad1Operacjanadanych.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zad1Zapisz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zad1Zapisz.Designer.cs">
+      <DependentUpon>Zad1Zapisz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZadanieDodatkowe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZadanieDodatkowe.Designer.cs">
+      <DependentUpon>ZadanieDodatkowe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zadanie_1_A_LosoweWartosci_Neurony.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zadanie_1_A_LosoweWartosci_Neurony.Designer.cs">
+      <DependentUpon>Zadanie_1_A_LosoweWartosci_Neurony.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZapiszStrukture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZapiszStrukture.Designer.cs">
+      <DependentUpon>ZapiszStrukture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zapiszWariant1.cs" />
+    <Compile Include="zapiszWariant2.cs" />
+    <Compile Include="zapiszWariant3.cs" />
+    <EmbeddedResource Include="Decyzja.resx">
+      <DependentUpon>Decyzja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KnnDlaBazyProbek.resx">
+      <DependentUpon>KnnDlaBazyProbek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KNNDlaPojObiektu.resx">
+      <DependentUpon>KNNDlaPojObiektu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KnnKnajmniejszychWynikow.resx">
+      <DependentUpon>KnnKnajmniejszychWynikow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KnnSumaKnajmniejszychWartosci.resx">
+      <DependentUpon>KnnSumaKnajmniejszychWartosci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdczytajStrukture.resx">
+      <DependentUpon>OdczytajStrukture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SprawdzKnnNajmniejszychwwynikow.resx">
+      <DependentUpon>SprawdzKnnNajmniejszychwwynikow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SprawdzKnnSumNajmniejszych.resx">
+      <DependentUpon>SprawdzKnnSumNajmniejszych.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsunKolumne.resx">
+      <DependentUpon>UsunKolumne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WalidatorPliku.resx">
+      <DependentUpon>WalidatorPliku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WyswietlLosowaStrukture.resx">
+      <DependentUpon>WyswietlLosowaStrukture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zad1Operacjanadanych.resx">
+      <DependentUpon>Zad1Operacjanadanych.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zad1Zapisz.resx">
+      <DependentUpon>Zad1Zapisz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZadanieDodatkowe.resx">
+      <DependentUpon>ZadanieDodatkowe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zadanie_1_A_LosoweWartosci_Neurony.resx">
+      <DependentUpon>Zadanie_1_A_LosoweWartosci_Neurony.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZapiszStrukture.resx">
+      <DependentUpon>ZapiszStrukture.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

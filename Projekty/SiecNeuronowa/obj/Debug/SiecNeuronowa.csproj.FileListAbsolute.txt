@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\SiecNeuronowa\bin\Debug\SiecNeuronowa.exe.config
+C:\Users\Asus\source\repos\SiecNeuronowa\bin\Debug\SiecNeuronowa.exe
+C:\Users\Asus\source\repos\SiecNeuronowa\bin\Debug\SiecNeuronowa.pdb
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.Form1.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.Properties.Resources.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.exe
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.pdb
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.OdczytajStrukture.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.WyswietlLosowaStrukture.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.Zadanie_1_A_LosoweWartosci_Neurony.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.ZapiszStrukture.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.Ucz.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.Zapytanie.resources
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\SiecNeuronowa\obj\Debug\SiecNeuronowa.Pytaj.resources
