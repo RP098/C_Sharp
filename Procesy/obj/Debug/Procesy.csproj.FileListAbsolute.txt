@@ -1,7 +1,0 @@
-B:\1_C#\JęzykC#_Platforma_Net\Procesy\bin\Debug\Procesy.exe.config
-B:\1_C#\JęzykC#_Platforma_Net\Procesy\bin\Debug\Procesy.exe
-B:\1_C#\JęzykC#_Platforma_Net\Procesy\bin\Debug\Procesy.pdb
-B:\1_C#\JęzykC#_Platforma_Net\Procesy\obj\Debug\Procesy.csproj.AssemblyReference.cache
-B:\1_C#\JęzykC#_Platforma_Net\Procesy\obj\Debug\Procesy.csproj.CoreCompileInputs.cache
-B:\1_C#\JęzykC#_Platforma_Net\Procesy\obj\Debug\Procesy.exe
-B:\1_C#\JęzykC#_Platforma_Net\Procesy\obj\Debug\Procesy.pdb

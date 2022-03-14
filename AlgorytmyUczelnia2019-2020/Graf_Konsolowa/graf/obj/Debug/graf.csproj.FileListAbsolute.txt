@@ -1,6 +1,0 @@
-C:\Users\L412\source\repos\graf\bin\Debug\graf.exe.config
-C:\Users\L412\source\repos\graf\bin\Debug\graf.exe
-C:\Users\L412\source\repos\graf\bin\Debug\graf.pdb
-C:\Users\L412\source\repos\graf\obj\Debug\graf.csprojAssemblyReference.cache
-C:\Users\L412\source\repos\graf\obj\Debug\graf.exe
-C:\Users\L412\source\repos\graf\obj\Debug\graf.pdb
