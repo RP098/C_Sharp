@@ -1,0 +1,6 @@
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Podatki\bin\Debug\Podatki.dll
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Podatki\bin\Debug\Podatki.pdb
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Podatki\obj\Debug\Podatki.csproj.AssemblyReference.cache
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Podatki\obj\Debug\Podatki.csproj.CoreCompileInputs.cache
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Podatki\obj\Debug\Podatki.dll
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Podatki\obj\Debug\Podatki.pdb

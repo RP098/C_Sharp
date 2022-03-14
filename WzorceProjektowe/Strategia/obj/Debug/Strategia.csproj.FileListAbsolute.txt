@@ -1,0 +1,17 @@
+B:\1_C#\WzorceProjektowe\Strategia\bin\Debug\Strategia.exe.config
+B:\1_C#\WzorceProjektowe\Strategia\bin\Debug\Strategia.exe
+B:\1_C#\WzorceProjektowe\Strategia\bin\Debug\Strategia.pdb
+B:\1_C#\WzorceProjektowe\Strategia\obj\Debug\Strategia.csproj.AssemblyReference.cache
+B:\1_C#\WzorceProjektowe\Strategia\obj\Debug\Strategia.csproj.CoreCompileInputs.cache
+B:\1_C#\WzorceProjektowe\Strategia\obj\Debug\Strategia.exe
+B:\1_C#\WzorceProjektowe\Strategia\obj\Debug\Strategia.pdb
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\bin\Debug\Strategia.exe.config
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\bin\Debug\Strategia.exe
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\bin\Debug\Strategia.pdb
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\bin\Debug\SymulatorKaczek.dll
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\bin\Debug\SymulatorKaczek.pdb
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\obj\Debug\Strategia.csproj.AssemblyReference.cache
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\obj\Debug\Strategia.csproj.CoreCompileInputs.cache
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\obj\Debug\Strategia.csproj.CopyComplete
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\obj\Debug\Strategia.exe
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\Strategia\obj\Debug\Strategia.pdb

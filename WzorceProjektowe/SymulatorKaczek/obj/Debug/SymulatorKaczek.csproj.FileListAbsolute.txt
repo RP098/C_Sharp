@@ -1,0 +1,6 @@
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\SymulatorKaczek\bin\Debug\SymulatorKaczek.dll
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\SymulatorKaczek\bin\Debug\SymulatorKaczek.pdb
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\SymulatorKaczek\obj\Debug\SymulatorKaczek.csproj.AssemblyReference.cache
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\SymulatorKaczek\obj\Debug\SymulatorKaczek.csproj.CoreCompileInputs.cache
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\SymulatorKaczek\obj\Debug\SymulatorKaczek.dll
+B:\1_C#\WzorceProjektowe\Wz\WzorceProjektowe\SymulatorKaczek\obj\Debug\SymulatorKaczek.pdb
