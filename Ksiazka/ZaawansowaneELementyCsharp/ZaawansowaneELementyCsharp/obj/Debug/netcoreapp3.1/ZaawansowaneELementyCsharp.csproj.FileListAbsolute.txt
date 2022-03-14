@@ -1,0 +1,13 @@
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.exe
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.deps.json
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.runtimeconfig.json
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.runtimeconfig.dev.json
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.dll
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.pdb
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\obj\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\obj\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.AssemblyInfoInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\obj\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.AssemblyInfo.cs
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\obj\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\obj\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.dll
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\obj\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.pdb
+B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\obj\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.genruntimeconfig.cache

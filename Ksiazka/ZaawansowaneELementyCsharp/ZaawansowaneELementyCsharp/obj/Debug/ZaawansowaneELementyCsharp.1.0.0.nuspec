@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ZaawansowaneELementyCsharp</id>
+    <version>1.0.0</version>
+    <authors>ZaawansowaneELementyCsharp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.runtimeconfig.json" target="lib\netcoreapp3.1\ZaawansowaneELementyCsharp.runtimeconfig.json" />
+    <file src="B:\1_C#\JęzykC#_Platforma_Net\ZaawansowaneELementyCsharp\ZaawansowaneELementyCsharp\bin\Debug\netcoreapp3.1\ZaawansowaneELementyCsharp.dll" target="lib\netcoreapp3.1\ZaawansowaneELementyCsharp.dll" />
+  </files>
+</package>

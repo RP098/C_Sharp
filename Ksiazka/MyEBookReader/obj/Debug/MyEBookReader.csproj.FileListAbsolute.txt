@@ -1,0 +1,10 @@
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\bin\Debug\MyEBookReader.exe.config
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\bin\Debug\MyEBookReader.exe
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\bin\Debug\MyEBookReader.pdb
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\obj\Debug\MyEBookReader.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\obj\Debug\MyEBookReader.Form1.resources
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\obj\Debug\MyEBookReader.Properties.Resources.resources
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\obj\Debug\MyEBookReader.csproj.GenerateResource.cache
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\obj\Debug\MyEBookReader.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\obj\Debug\MyEBookReader.exe
+B:\1_C#\JęzykC#_Platforma_Net\MyEBookReader\obj\Debug\MyEBookReader.pdb

@@ -1,0 +1,13 @@
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\bin\Debug\netcoreapp3.1\Interfejsy.exe
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\bin\Debug\netcoreapp3.1\Interfejsy.deps.json
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\bin\Debug\netcoreapp3.1\Interfejsy.runtimeconfig.json
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\bin\Debug\netcoreapp3.1\Interfejsy.runtimeconfig.dev.json
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\bin\Debug\netcoreapp3.1\Interfejsy.dll
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\bin\Debug\netcoreapp3.1\Interfejsy.pdb
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\obj\Debug\netcoreapp3.1\Interfejsy.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\obj\Debug\netcoreapp3.1\Interfejsy.AssemblyInfoInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\obj\Debug\netcoreapp3.1\Interfejsy.AssemblyInfo.cs
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\obj\Debug\netcoreapp3.1\Interfejsy.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\obj\Debug\netcoreapp3.1\Interfejsy.dll
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\obj\Debug\netcoreapp3.1\Interfejsy.pdb
+B:\1_C#\JęzykC#_Platforma_Net\Interfejsy\Interfejsy\obj\Debug\netcoreapp3.1\Interfejsy.genruntimeconfig.cache

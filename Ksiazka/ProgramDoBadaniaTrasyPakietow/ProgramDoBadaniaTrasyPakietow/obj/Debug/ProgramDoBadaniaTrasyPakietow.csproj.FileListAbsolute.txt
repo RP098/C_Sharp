@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\bin\Debug\ProgramDoBadaniaTrasyPakietow.exe.config
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\bin\Debug\ProgramDoBadaniaTrasyPakietow.exe
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\bin\Debug\ProgramDoBadaniaTrasyPakietow.pdb
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.oknoGlowne.resources
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.Properties.Resources.resources
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.exe
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.pdb
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.PotwierdzenieZamkniecia.resources
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\bin\Debug\ProgramDoBadaniaTrasyPakietow.exe.manifest
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\bin\Debug\ProgramDoBadaniaTrasyPakietow.application
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.exe.manifest
+C:\Users\Asus\source\repos\ProgramDoBadaniaTrasyPakietow\ProgramDoBadaniaTrasyPakietow\obj\Debug\ProgramDoBadaniaTrasyPakietow.application
