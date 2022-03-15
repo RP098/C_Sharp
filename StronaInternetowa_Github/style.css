@@ -1,0 +1,100 @@
+@charset "UTF-8";
+body{
+
+background-color: #E8EFF9;
+font-size:20px;
+}
+  .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    
+    }
+header{
+
+width:100%;
+height:20%;
+text-align: center;
+font-family: fantasy;
+font-style: italic;
+font-size:40px;
+
+}
+
+.Zawartosc{
+height:100%;
+margin-left:15% ;
+margin-right:15% ;
+color:#38381D ;
+margin-top: 10%;
+}
+h1:first-letter{
+font-family:fantasy;
+font-size:70px;
+
+}
+h2{
+text-align: center;
+margin-top: 10%;
+}
+#fix{
+position: fixed;
+width:100%;
+
+}
+umiejetnosci{
+
+
+margin-bottom: 10%;
+}
+kontakt{
+margin-top: 10%;
+
+}
+omnie{
+width:70%;
+margin-left:15% ;
+margin-right:15% ;
+margin-top:10%;
+}
+
+
+button{
+background-color:#222222 ;
+
+}
+.jumbotron{
+background-color: #C8C8C8;
+
+}
+p{
+
+  text-align: justify;
+
+
+}
+p:first-letter{
+font-size:30px;
+
+
+}
+
+footer{
+background-color: #545429;
+ color: #FFFFFF;
+padding-top:40px;
+width:80%;
+height:100px;
+margin-top:10%;
+margin-bottom:0.1%;
+margin-left:10%;
+border-radius: 5;
+}
+@media screen and (min-width: 1400px){
+.telNav{display:none;}
+}
+@media screen and (min-width: 280px) and (max-width:1400px){
+#komp{display:none;}
+aside{border-right:none;width:98%; height:50%;}
+
+}
+q:lang(pl) { quotes: "\201E" "\201D"  }
