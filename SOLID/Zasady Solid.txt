@@ -1,0 +1,5 @@
+S-single responsibility principle  każda klasa powinna mieć jedną kontretną funkcję
+O-open closed otwarte na rozbudowę zamknięty na modyfikację
+L-liskov substitution principle w miejscu klasy bazowej można użyć dowolnej klasy pochodnej
+I-interface segragation principle interfejsy powinny być konkretne i jak najmniejsze
+D-dependency inversion principle zależności powiny zależeć od abstrakcji nie od typu.
