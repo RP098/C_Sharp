@@ -1,0 +1,10 @@
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\bin\Debug\AdoNet_W_winforms.exe.config
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\bin\Debug\AdoNet_W_winforms.exe
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\bin\Debug\AdoNet_W_winforms.pdb
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\obj\Debug\AdoNet_W_winforms.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\obj\Debug\AdoNet_W_winforms.MainForm.resources
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\obj\Debug\AdoNet_W_winforms.Properties.Resources.resources
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\obj\Debug\AdoNet_W_winforms.csproj.GenerateResource.cache
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\obj\Debug\AdoNet_W_winforms.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\obj\Debug\AdoNet_W_winforms.exe
+B:\1_C#\JęzykC#_Platforma_Net_\AdoNet_W_winforms\obj\Debug\AdoNet_W_winforms.pdb
