@@ -1,0 +1,7 @@
+B:\1_C#\JęzykC#_Platforma_Net_\ado_net_2_warstwaBezpolaczeniowa\bin\Debug\ado_net_2_warstwaBezpolaczeniowa.exe.config
+B:\1_C#\JęzykC#_Platforma_Net_\ado_net_2_warstwaBezpolaczeniowa\bin\Debug\ado_net_2_warstwaBezpolaczeniowa.exe
+B:\1_C#\JęzykC#_Platforma_Net_\ado_net_2_warstwaBezpolaczeniowa\bin\Debug\ado_net_2_warstwaBezpolaczeniowa.pdb
+B:\1_C#\JęzykC#_Platforma_Net_\ado_net_2_warstwaBezpolaczeniowa\obj\Debug\ado_net_2_warstwaBezpolaczeniowa.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net_\ado_net_2_warstwaBezpolaczeniowa\obj\Debug\ado_net_2_warstwaBezpolaczeniowa.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net_\ado_net_2_warstwaBezpolaczeniowa\obj\Debug\ado_net_2_warstwaBezpolaczeniowa.exe
+B:\1_C#\JęzykC#_Platforma_Net_\ado_net_2_warstwaBezpolaczeniowa\obj\Debug\ado_net_2_warstwaBezpolaczeniowa.pdb

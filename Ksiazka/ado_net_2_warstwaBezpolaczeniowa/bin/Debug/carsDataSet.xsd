@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Car_x0020_inventory" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:element name="Car_x0020_inventory" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:TimeStamp="03/19/2022 13:19:51" msprop:DataSetID="df2418c1-e2f1-4c69-8beb-f683f8fb3632" msprop:Company="MiCOM Company">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Inventory">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Make" type="xs:string" minOccurs="0" />
+              <xs:element name="Color" type="xs:string" minOccurs="0" />
+              <xs:element name="CarName" msdata:Caption="Car Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,7 @@
+B:\1_C#\JęzykC#_Platforma_Net_\Ado_net_1_warstwa_Polaczeniowa\bin\Debug\Ado_net_1_warstwa_Polaczeniowa.exe.config
+B:\1_C#\JęzykC#_Platforma_Net_\Ado_net_1_warstwa_Polaczeniowa\bin\Debug\Ado_net_1_warstwa_Polaczeniowa.exe
+B:\1_C#\JęzykC#_Platforma_Net_\Ado_net_1_warstwa_Polaczeniowa\bin\Debug\Ado_net_1_warstwa_Polaczeniowa.pdb
+B:\1_C#\JęzykC#_Platforma_Net_\Ado_net_1_warstwa_Polaczeniowa\obj\Debug\Ado_net_1_warstwa_Polaczeniowa.csproj.AssemblyReference.cache
+B:\1_C#\JęzykC#_Platforma_Net_\Ado_net_1_warstwa_Polaczeniowa\obj\Debug\Ado_net_1_warstwa_Polaczeniowa.csproj.CoreCompileInputs.cache
+B:\1_C#\JęzykC#_Platforma_Net_\Ado_net_1_warstwa_Polaczeniowa\obj\Debug\Ado_net_1_warstwa_Polaczeniowa.exe
+B:\1_C#\JęzykC#_Platforma_Net_\Ado_net_1_warstwa_Polaczeniowa\obj\Debug\Ado_net_1_warstwa_Polaczeniowa.pdb

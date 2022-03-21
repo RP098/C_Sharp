@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Ogólne informacje o zestawie są kontrolowane poprzez następujący 
 // zestaw atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // powiązane z zestawem.
-[assembly: AssemblyTitle("MyEBookReader")]
+[assembly: AssemblyTitle("Ado_net_1_warstwa_Polaczeniowa")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MyEBookReader")]
+[assembly: AssemblyProduct("Ado_net_1_warstwa_Polaczeniowa")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Następujący identyfikator GUID jest identyfikatorem biblioteki typów w przypadku udostępnienia tego projektu w modelu COM
-[assembly: Guid("a116c68a-1c8c-4e13-9024-fd3a7543766c")]
+[assembly: Guid("90c3f2ef-5b83-4acb-a47d-b5bc78b635c2")]
 
 // Informacje o wersji zestawu zawierają następujące cztery wartości:
 //
