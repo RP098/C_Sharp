@@ -1,0 +1,7 @@
+B:\1_C#\Netwise\DownloadWebText\bin\Debug\DownloadWebText.dll.config
+B:\1_C#\Netwise\DownloadWebText\bin\Debug\DownloadWebText.dll
+B:\1_C#\Netwise\DownloadWebText\bin\Debug\DownloadWebText.pdb
+B:\1_C#\Netwise\DownloadWebText\obj\Debug\DownloadText.csproj.AssemblyReference.cache
+B:\1_C#\Netwise\DownloadWebText\obj\Debug\DownloadText.csproj.CoreCompileInputs.cache
+B:\1_C#\Netwise\DownloadWebText\obj\Debug\DownloadWebText.dll
+B:\1_C#\Netwise\DownloadWebText\obj\Debug\DownloadWebText.pdb

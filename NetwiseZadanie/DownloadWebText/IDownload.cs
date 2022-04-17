@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DownloadWebText
 {
-    interface IDownload
+    public interface IDownload
     {
         string Download();
     }

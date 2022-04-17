@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DownloadWebText
 {
-    class Download
+  public class Download
     {
         private IDownload download;
         public Download(IDownload download)
