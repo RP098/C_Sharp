@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Download.cs" />
+    <Compile Include="DownloadTxt\DownloadTextFromWebConsola.cs" />
     <Compile Include="DownloadTxt\DownloadTextFromWeb.cs" />
     <Compile Include="IDownload.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

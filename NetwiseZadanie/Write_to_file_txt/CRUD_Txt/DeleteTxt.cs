@@ -3,7 +3,7 @@ using System.Configuration;
 using System.IO;
 namespace File_manager
 {
-    class DeleteTxt:IDelete
+   public class DeleteTxt:IDelete
     {
         public void DeleteFile()
         {

@@ -1,3 +1,9 @@
-{"fact":"Cats come back to full alertness from the sleep state faster than any other creature.","length":85}
-{"fact":"Unlike humans, cats are usually lefties. Studies indicate that their left paw is typically their dominant paw.","length":110}
-{"fact":"A cat uses its whiskers for measuring distances.  The whiskers of a cat are capable of registering very small changes in air pressure.","length":134}
+{"fact":"The Ancient Egyptian word for cat was mau, which means \"to see\".","length":64}
+{"fact":"All cats have claws, and all except the cheetah sheath them when at rest.","length":73}
+{"fact":"The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.","length":135}
+{"fact":"A cat lover is called an Ailurophilia (Greek: cat+lover).","length":57}
+{"fact":"Some cats have survived falls of over 65 feet (20 meters), due largely to their \u201crighting reflex.\u201d The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.","length":249}
+{"fact":"Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.","length":75}
+{"fact":"In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king.","length":108}
+{"fact":"Neutering a cat extends its life span by two or three years.","length":60}
+{"fact":"Cheetahs do not roar, as the other big cats do. Instead, they purr.","length":67}
