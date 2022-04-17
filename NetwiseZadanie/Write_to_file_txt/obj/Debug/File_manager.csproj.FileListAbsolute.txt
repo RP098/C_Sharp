@@ -1,0 +1,6 @@
+B:\1_C#\Netwise\Write_to_file_txt\bin\Debug\File_manager.dll
+B:\1_C#\Netwise\Write_to_file_txt\bin\Debug\File_manager.pdb
+B:\1_C#\Netwise\Write_to_file_txt\obj\Debug\File_manager.csproj.AssemblyReference.cache
+B:\1_C#\Netwise\Write_to_file_txt\obj\Debug\File_manager.csproj.CoreCompileInputs.cache
+B:\1_C#\Netwise\Write_to_file_txt\obj\Debug\File_manager.dll
+B:\1_C#\Netwise\Write_to_file_txt\obj\Debug\File_manager.pdb

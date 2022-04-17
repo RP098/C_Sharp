@@ -7,7 +7,7 @@ namespace File_manager
         public bool FileIsExist()
         {
             AppSettingsReader appSettings = new AppSettingsReader();
-            string nameFile = (string)appSettings.GetValue("EndPoint", typeof(string));
+            string nameFile = (string)appSettings.GetValue("FileName", typeof(string));
             FileInfo fileInfo = new FileInfo(nameFile);
             return fileInfo.Exists;
         }

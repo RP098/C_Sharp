@@ -13,7 +13,7 @@ namespace File_manager
             if (!fileTxtIsExist.FileIsExist())
                 throw exception;
             AppSettingsReader appSettings = new AppSettingsReader();
-            string nameFile = (string)appSettings.GetValue("EndPoint", typeof(string));
+            string nameFile = (string)appSettings.GetValue("FileName", typeof(string));
             string catRead = null;
             try
             { 

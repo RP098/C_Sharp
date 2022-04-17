@@ -4,16 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1BF5AA93-77A2-4439-95B5-EC64DC95B698}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DownloadWebText</RootNamespace>
-    <AssemblyName>DownloadWebText</AssemblyName>
+    <ProjectGuid>{2617973B-AFA2-47E6-92FC-6BB677F7DA65}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Zadanie</RootNamespace>
+    <AssemblyName>Zadanie</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,10 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Download.cs" />
-    <Compile Include="DownloadTxt\DownloadTextFromWeb.cs" />
-    <Compile Include="IDownload.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DownloadWebText\DownloadText.csproj">
+      <Project>{1bf5aa93-77a2-4439-95b5-ec64dc95b698}</Project>
+      <Name>DownloadText</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Write_to_file_txt\File_manager.csproj">
+      <Project>{bd51c0bb-12c0-4b5e-b944-6e21e14ccd5b}</Project>
+      <Name>File_manager</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

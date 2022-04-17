@@ -9,11 +9,11 @@ namespace File_manager
         public void CreateFile()
         {
             AppSettingsReader appSettings = new AppSettingsReader();
-            string nameFile = (string)appSettings.GetValue("EndPoint", typeof(string));
+            string nameFile = (string)appSettings.GetValue("FileName", typeof(string));
             FileTxtIsExist fileTxtIsExist = new FileTxtIsExist();
             Exception exception = new Exception("File is not exist");
-            if (!fileTxtIsExist.FileIsExist())
-                throw exception;
+            if (fileTxtIsExist.FileIsExist())
+                return;
             try
             {
                 FileInfo fileInfo = new FileInfo(nameFile);
