@@ -1,0 +1,24 @@
+{
+"fact": "There is a species of cat smaller than the average housecat. It is native to Africa and it is the Black-footed cat (Felis nigripes). Its top weight is 5.5 pounds.", 
+"length": 162
+}
+{
+"fact": "Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.", 
+"length": 96
+}
+{
+"fact": "A cat's nose is as unique as a human's fingerprint.", 
+"length": 51
+}
+{
+"fact": "A cat's field of vision is about 200 degrees.", 
+"length": 45
+}
+{
+"fact": "A cat\u2019s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.", 
+"length": 88
+}
+{
+"fact": "Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.", 
+"length": 116
+}
