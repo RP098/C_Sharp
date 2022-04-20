@@ -7,3 +7,7 @@
 {"fact":"In Siam, the cat was so revered that one rode in a chariot at the head of a parade celebrating the new king.","length":108}
 {"fact":"Neutering a cat extends its life span by two or three years.","length":60}
 {"fact":"Cheetahs do not roar, as the other big cats do. Instead, they purr.","length":67}
+{"fact":"A cat can sprint at about thirty-one miles per hour.","length":52}
+{"fact":"All cats have claws, and all except the cheetah sheath them when at rest.","length":73}
+{"fact":"A cat has the ability to rotate their ears 180 degrees,with the help of 32 muscles that they use to control them.","length":113}
+{"fact":"A tiger's stripes are like fingerprints","length":39}
